@@ -1,0 +1,4 @@
+link para Download do Git:
+https://git-scm.com/download
+
+terminal extendido para otimizar o uso do Git.
